@@ -6,4 +6,4 @@ This repository contains the code I write as I make my way through the book.
 
 I have a bad habit of reading the first ~50 pages of a book and then moving on to something else, so we'll see how this goes. I'll keep this file updated with my progress.
 
-I'm currently on page 32.
+I'm currently on page 40.
